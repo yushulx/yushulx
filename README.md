@@ -32,8 +32,9 @@
   - [ASP.NET](https://github.com/yushulx/web-twain-ASP.NET-Core)
     
 - Dynamsoft Barcode Reader
-  - [flutter-barcode-scanner](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
+  - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
+  - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux, macOS)
 - Dynamsoft Label Recognizer
-  - [flutter-MRZ-scanner](https://github.com/yushulx/flutter-MRZ-scanner) (Web, Android, iOS, Windows and Linux)
+  - [Flutter](https://github.com/yushulx/flutter-MRZ-scanner) (Web, Android, iOS, Windows and Linux)
 - Dynamsoft Document Normalizer
-  - [flutter-document-scanner](https://github.com/yushulx/flutter-document-scanner) (Web, Android, iOS, Windows and Linux)
+  - [Flutter](https://github.com/yushulx/flutter-document-scanner) (Web, Android, iOS, Windows and Linux)
