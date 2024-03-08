@@ -2,7 +2,7 @@
 
 ### 📦 Packages based on [Dynamsoft](https://www.dynamsoft.com/) SDKs
 
-#### Dynamic Web TWAIN
+#### Dynamic Web TWAIN: Document Capture and Management
 
 | Python      | Flutter         | .NET | Node.js |
 | ----------- | ----------- |-----------    | -----------    |
