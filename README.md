@@ -29,8 +29,10 @@
 
 ### 🚀 Samples
 - Dynamic Web TWAIN
-  - [ASP.NET](https://github.com/yushulx/web-twain-ASP.NET-Core)
-  - [Node.js](https://github.com/yushulx/Scan-Documents-with-Node.JS)
+    - Upload document images to a web server
+      - [ASP.NET](https://github.com/yushulx/web-twain-ASP.NET-Core)
+      - [Node.js](https://github.com/yushulx/Scan-Documents-with-Node.JS)
+      - [Go](https://github.com/yushulx/Scan-Documents-with-Go)
     
 - Dynamsoft Barcode Reader
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
