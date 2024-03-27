@@ -37,7 +37,8 @@
 - Dynamsoft Barcode Reader
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
   - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux, macOS)
-  - [iOS SwiftUI](https://github.com/yushulx/ios-swiftui-camera-qr-code-scanner)
+  - [SwiftUI](https://github.com/yushulx/ios-swiftui-camera-qr-code-scanner) (iOS)
+  - [Blazor](https://github.com/yushulx/blazor-barcode-qrcode-reader-scanner) (Web)
 - Dynamsoft Label Recognizer
   - [Flutter](https://github.com/yushulx/flutter-MRZ-scanner) (Web, Android, iOS, Windows and Linux)
 - Dynamsoft Document Normalizer
