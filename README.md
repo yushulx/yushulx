@@ -33,7 +33,7 @@
       - [ASP.NET](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/asp_dotnet_upload)
       - [Node.js](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/node_upload)
       - [Go](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/golang_upload)
-    
+      - [Python Django](https://github.com/yushulx/web-twain-document-scan-management-examples/blob/main/examples/python_upload)
 - Dynamsoft Barcode Reader
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
   - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux and macOS)
