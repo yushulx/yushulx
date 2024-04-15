@@ -35,6 +35,9 @@
       - [Go](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/golang_upload)
       - [Python Django](https://github.com/yushulx/web-twain-document-scan-management-examples/blob/main/examples/python_upload)
       - [PHP Laravel](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/php_laravel)
+    - Scan documents:
+      - [Polymer](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/polymer)
+        
 - Dynamsoft Barcode Reader
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
   - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux and macOS)
