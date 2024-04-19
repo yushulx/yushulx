@@ -37,6 +37,7 @@
       - [PHP Laravel](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/php_laravel)
     - Scan documents:
       - [Polymer](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/polymer)
+      - [Express Jade](https://github.com/yushulx/web-twain-document-scan-management/blob/main/examples/jade)
         
 - Dynamsoft Barcode Reader
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
