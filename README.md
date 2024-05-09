@@ -12,7 +12,7 @@
 
 | Python      | Flutter         | .NET | Node.js |
 | ----------- | ----------- |-----------    | -----------    |
-| [barcode-qr-code-sdk](https://pypi.org/project/barcode-qr-code-sdk/) | [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk)   | [BarcodeQRCodeSDK ](https://github.com/yushulx/dotnet-barcode-qr-code-sdk/) |[barcode4nodejs](https://github.com/yushulx/nodejs-barcode) |
+| [barcode-qr-code-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk)   | [BarcodeQRCodeSDK ](https://github.com/yushulx/dotnet-barcode-qr-code-sdk/) |[barcode4nodejs](https://github.com/yushulx/nodejs-barcode) |
 
 
 #### Dynamsoft Label Recognizer: Machine-readable Zone (MRZ) Recognition and Parsing
