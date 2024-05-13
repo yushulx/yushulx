@@ -41,6 +41,7 @@
       - [Electron](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/electron)
         
 - Dynamsoft Barcode Reader
+  - [JavaScript](https://github.com/yushulx/javascript-barcode-qr-code-scanner) (Web)
   - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
   - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux and macOS)
   - [SwiftUI](https://github.com/yushulx/ios-swiftui-camera-qr-code-scanner) (iOS)
