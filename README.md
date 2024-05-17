@@ -39,7 +39,7 @@
       - [Polymer](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/polymer)
       - [Express Jade](https://github.com/yushulx/web-twain-document-scan-management/blob/main/examples/jade)
       - [Electron](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/electron)
-      - [Angular](https://github.com/yushulx/angular-dynamic-web-twain)
+      - [Angular](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/angular)
         
 - Dynamsoft Barcode Reader
   - [JavaScript](https://github.com/yushulx/javascript-barcode-qr-code-scanner) (Web)
