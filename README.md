@@ -4,15 +4,15 @@
 
 #### Dynamic Web TWAIN: Document Capture and Management
 
-| Python      | Flutter         | .NET | Node.js | Go|
-| ----------- | ----------- |-----------    | -----------    | -----------    |
-| [twain-wia-sane-scanner](https://github.com/yushulx/twain-wia-sane-scanner) |[flutter_twain_scanner](https://github.com/yushulx/flutter_twain_scanner)     |  [Twain.Wia.Sane.Scanner](https://github.com/yushulx/dotnet-twain-wia-sane-scanner)  |[docscan4nodejs](https://github.com/yushulx/dynamsoft-service-REST-API) | [goBarcodeQrSDK](https://github.com/yushulx/goBarcodeQrSDK) |
+| Python      | Flutter         | .NET | Node.js | 
+| ----------- | ----------- |-----------    | -----------    | 
+| [twain-wia-sane-scanner](https://github.com/yushulx/twain-wia-sane-scanner) |[flutter_twain_scanner](https://github.com/yushulx/flutter_twain_scanner)     |  [Twain.Wia.Sane.Scanner](https://github.com/yushulx/dotnet-twain-wia-sane-scanner)  |[docscan4nodejs](https://github.com/yushulx/dynamsoft-service-REST-API) |
 
 #### Dynamsoft Barcode Reader: 1D & 2D Barcode Detection
 
-| Python      | Flutter         | .NET | Node.js |
-| ----------- | ----------- |-----------    | -----------    |
-| [barcode-qr-code-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk)   | [BarcodeQRCodeSDK ](https://github.com/yushulx/dotnet-barcode-qr-code-sdk/) |[barcode4nodejs](https://github.com/yushulx/nodejs-barcode) |
+| Python      | Flutter         | .NET | Node.js |Go|
+| ----------- | ----------- |-----------    | -----------    |-----------    |
+| [barcode-qr-code-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk)   | [BarcodeQRCodeSDK ](https://github.com/yushulx/dotnet-barcode-qr-code-sdk/) |[barcode4nodejs](https://github.com/yushulx/nodejs-barcode) | [goBarcodeQrSDK](https://github.com/yushulx/goBarcodeQrSDK) |
 
 
 #### Dynamsoft Label Recognizer: Machine-readable Zone (MRZ) Recognition and Parsing
