@@ -41,6 +41,7 @@
       - [Electron](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/electron)
       - [Angular](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/angular)
       - [Python Qt5](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/qt)
+      - [React](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/react)
         
 - Dynamsoft Barcode Reader
   - [JavaScript](https://github.com/yushulx/javascript-barcode-qr-code-scanner) (Web)
