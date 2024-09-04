@@ -52,6 +52,8 @@
   - [Qt6 QML](https://github.com/yushulx/Qt-QML-QR-code-scanner) (Windows, Android and iOS)
   - [Rust](https://github.com/yushulx/cmake-cpp-barcode-qrcode/tree/main/examples/9.x/rust) (Windows and Linux)
   - [Java](https://github.com/yushulx/java-jni-barcode-qrcode-reader) (Windows, Linux and macOS)
+  - [Android](https://github.com/yushulx/android-camera-barcode-mrz-document-scanner)
+  - [Angular](https://github.com/yushulx/angular-barcode-mrz-document-scanner)
 - Dynamsoft Label Recognizer
   - [Flutter](https://github.com/yushulx/flutter-MRZ-scanner) (Web, Android, iOS, Windows and Linux)
 - Dynamsoft Document Normalizer
