@@ -1,60 +1,47 @@
-🔭 I'm currently working on:
+I'm currently working on:
 
-### 📦 Packages based on [Dynamsoft](https://www.dynamsoft.com/) SDKs
+#### Web
 
-#### Dynamic Web TWAIN: Document Capture and Management
-
-| Python      | Flutter         | .NET | Node.js | 
-| ----------- | ----------- |-----------    | -----------    | 
-| [twain-wia-sane-scanner](https://github.com/yushulx/twain-wia-sane-scanner) |[flutter_twain_scanner](https://github.com/yushulx/flutter_twain_scanner)     |  [Twain.Wia.Sane.Scanner](https://github.com/yushulx/dotnet-twain-wia-sane-scanner)  |[docscan4nodejs](https://github.com/yushulx/dynamsoft-service-REST-API) |
-
-#### Dynamsoft Barcode Reader: 1D & 2D Barcode Detection
-
-| Python      | Flutter         | .NET | Node.js |Go|
-| ----------- | ----------- |-----------    | -----------    |-----------    |
-| [barcode-qr-code-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk)   | [BarcodeQRCodeSDK ](https://github.com/yushulx/dotnet-barcode-qr-code-sdk/) |[barcode4nodejs](https://github.com/yushulx/nodejs-barcode) | [goBarcodeQrSDK](https://github.com/yushulx/goBarcodeQrSDK) |
+| Framework | Repository | Description |
+|:--|:--|:--|
+| JavaScript | [javascript-barcode-qr-code-scanner](https://github.com/yushulx/javascript-barcode-qr-code-scanner) | Web-based barcode & QR code scanner using Dynamsoft JavaScript SDK |
+| Angular | [angular-barcode-mrz-document-scanner](https://github.com/yushulx/angular-barcode-mrz-document-scanner) | Angular app for barcode, MRZ, and document scanning with online demo and document PDF viewer |
+| Blazor | [blazor-barcode-mrz-document-scanner](https://github.com/yushulx/blazor-barcode-mrz-document-scanner) | .NET Blazor examples for barcode, MRZ, document scanning with Web TWAIN integration |
+| Dynamic Web TWAIN | [web-twain-document-scan-management](https://github.com/yushulx/web-twain-document-scan-management) | Document scanning samples for React, Angular, Electron, Polymer, Express, Flutter WebView, and more |
+| MRZ Generator | [web-mrz-generator](https://github.com/yushulx/web-mrz-generator) | Web tool for generating Machine Readable Zone (MRZ) strings for passports and ID cards |
+| Barcode Generator | [barcode-qrcode-generator](https://github.com/yushulx/barcode-qrcode-generator) | Web-based barcode & QR code image generator |
+| RESTful API | [dynamsoft-sdk-webapi-restful-service](https://github.com/yushulx/dynamsoft-sdk-webapi-restful-service) | RESTful web service wrapping Dynamsoft SDKs for barcode, MRZ, and document processing |
 
 
-#### Dynamsoft Label Recognizer: Machine-readable Zone (MRZ) Recognition and Parsing
+#### Mobile
 
-| Python      | Flutter         | .NET | Node.js |
-| ----------- | ----------- |-----------    | -----------    |
-| [mrz-scanner-sdk](https://github.com/yushulx/python-mrz-scanner-sdk) |[flutter_ocr_sdk](https://github.com/yushulx/flutter_ocr_sdk)     | [MrzScannerSDK](https://github.com/yushulx/dotnet-mrz-sdk)           | [mrz4nodejs](https://github.com/yushulx/mrz4nodejs) |
+| Platform | Repository | Description |
+|:--|:--|:--|
+| Flutter | [flutter-barcode-mrz-document-scanner](https://github.com/yushulx/flutter-barcode-mrz-document-scanner) | Multiple Flutter examples: camera barcode scanner, MRZ reader, document scanner, pharma lookup, last-mile delivery, and wireless keyboard mode — runs on Web, Android, iOS, Windows, and Linux |
+| Android | [android-camera-barcode-mrz-document-scanner](https://github.com/yushulx/android-camera-barcode-mrz-document-scanner) | Native Android (Java/Kotlin) examples for barcode, MRZ, and document detection with live camera preview |
+| iOS (SwiftUI) | [ios-swiftui-barcode-mrz-document-scanner](https://github.com/yushulx/ios-swiftui-barcode-mrz-document-scanner) | SwiftUI examples for iOS & macOS barcode scanning, MRZ reading, and document detection |
 
-#### Dynamsoft Document Normalizer: Document Detection & Rectification
 
-| Python      | Flutter         | .NET | Node.js |
-| ----------- | ----------- |-----------    | -----------    |
-|[python-document-scanner-sdk](https://github.com/yushulx/python-document-scanner-sdk) |[flutter_document_scan_sdk](https://github.com/yushulx/flutter_document_scan_sdk)    | [DocumentScannerSDK](https://github.com/yushulx/dotnet-document-scanner-sdk)            | [docrectifier4nodejs](https://github.com/yushulx/nodejs-document-rectification) |
+#### Desktop & Native
 
-### 🚀 Samples
-- Dynamic Web TWAIN
-    - Upload document images to a web server
-      - [ASP.NET](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/asp_dotnet_upload)
-      - [Node.js](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/node_upload)
-      - [Go](https://github.com/yushulx/web-twain-document-scan-management-examples/tree/main/examples/golang_upload)
-      - [Python Django](https://github.com/yushulx/web-twain-document-scan-management-examples/blob/main/examples/python_upload)
-      - [PHP Laravel](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/php_laravel)
-    - Scan documents:
-      - [Polymer](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/polymer)
-      - [Express Jade](https://github.com/yushulx/web-twain-document-scan-management/blob/main/examples/jade)
-      - [Electron](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/electron)
-      - [Angular](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/angular)
-      - [Python Qt5](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/qt)
-      - [React](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/react)
-        
-- Dynamsoft Barcode Reader
-  - [JavaScript](https://github.com/yushulx/javascript-barcode-qr-code-scanner) (Web)
-  - [Flutter](https://github.com/yushulx/flutter-barcode-scanner) (Web, Android, iOS, Windows and Linux)
-  - [C/C++](https://github.com/yushulx/cmake-cpp-barcode-qrcode) (Windows, Linux and macOS)
-  - [SwiftUI](https://github.com/yushulx/ios-swiftui-camera-qr-code-scanner) (iOS)
-  - [Blazor](https://github.com/yushulx/blazor-barcode-qrcode-reader-scanner) (Web)
-  - [Qt6 QML](https://github.com/yushulx/Qt-QML-QR-code-scanner) (Windows, Android and iOS)
-  - [Rust](https://github.com/yushulx/cmake-cpp-barcode-qrcode/tree/main/examples/9.x/rust) (Windows and Linux)
-  - [Java](https://github.com/yushulx/java-jni-barcode-qrcode-reader) (Windows, Linux and macOS)
-  - [Android](https://github.com/yushulx/android-camera-barcode-mrz-document-scanner)
-  - [Angular](https://github.com/yushulx/angular-barcode-mrz-document-scanner)
-- Dynamsoft Label Recognizer
-  - [Flutter](https://github.com/yushulx/flutter-MRZ-scanner) (Web, Android, iOS, Windows and Linux)
-- Dynamsoft Document Normalizer
-  - [Flutter](https://github.com/yushulx/flutter-document-scanner) (Web, Android, iOS, Windows and Linux)
+| Language / Framework | Repository | Description |
+|:--|:--|:--|
+| C/C++ + CMake | [cmake-cpp-barcode-qrcode-mrz](https://github.com/yushulx/cmake-cpp-barcode-qrcode-mrz) | C++ barcode & QR code reader with CMake — supports OpenCV camera, WebP, command-line on Windows, Linux, macOS, and Raspberry Pi |
+| Java | [java-barcode-mrz-document-scanner](https://github.com/yushulx/java-barcode-mrz-document-scanner) | Cross-platform Java barcode examples on Windows, Linux, and macOS |
+| Go | [goBarcodeQrSDK](https://github.com/yushulx/goBarcodeQrSDK) | Go barcode & QR code scanning examples with Docker support for Windows, Linux and macOS |
+| .NET MAUI | [maui-barcode-mrz-document-scanner](https://github.com/yushulx/maui-barcode-mrz-document-scanner) | .NET MAUI app examples for scanning barcodes, documents, and MRZ on Android and iOS |
+| .NET MAUI Blazor | [DotNet-MAUI-Blazor-Barcode-Scanner](https://github.com/yushulx/DotNet-MAUI-Blazor-Barcode-Scanner) | Hybrid .NET MAUI Blazor barcode reader examples combining native and web rendering |
+| .NET WinForms | [DirectShow.NET-Webcam-Barcode-Reader](https://github.com/yushulx/DirectShow.NET-Webcam-Barcode-Reader) | Windows .NET barcode scanner examples using DirectShow webcam capture |
+| .NET | [dotnet-barcode-qr-code-sdk](https://github.com/yushulx/dotnet-barcode-qr-code-sdk) | .NET barcode & QR code examples for Windows, Linux, macOS, Android, and iOS with command-line and MAUI demos |
+| .NET | [dotnet-twain-wia-sane-scanner](https://github.com/yushulx/dotnet-twain-wia-sane-scanner) | .NET document scanning examples with TWAIN, WIA, SANE, ICA, and eSCL — includes command-line, WinForms, and MAUI demos |
+| Python | [python-barcode-qrcode-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | Python barcode & QR code SDK with Qt/OpenCV examples for Windows, Linux, and macOS |
+| Python| [python-mrz-scanner-sdk](https://github.com/yushulx/python-mrz-scanner-sdk) | Python MRZ scanner for passports, ID cards, and visas with async camera support |
+| Python| [python-document-scanner-sdk](https://github.com/yushulx/python-document-scanner-sdk) | Python document edge detection and perspective correction SDK with camera and CLI examples |
+| Python| [python-twain-wia-sane-scanner](https://github.com/yushulx/python-twain-wia-sane-scanner) | Python bindings for Dynamic Web TWAIN Service REST API, supporting TWAIN, WIA, SANE, ICA, and eSCL document scanning |
+
+#### Camera & Utility Libraries
+
+| Repository | Description |
+|:--|:--|
+| [python-lite-camera](https://github.com/yushulx/python-lite-camera) | Lightweight, cross-platform Python library for capturing RGB frames from cameras |
+
