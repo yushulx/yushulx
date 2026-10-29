@@ -1,3 +1,20 @@
+## Live demos
+
+Explore my browser-based demos hosted on Dynamsoft Codepool:
+
+- **Barcode Scanner** — Scan barcodes from a camera, images, PDFs, TIFFs, or video. [Try demo](https://www.dynamsoft.com/codepool/demos/barcode-scanner/) · [Source](https://github.com/yushulx/javascript-barcode-qr-code-scanner/tree/main/examples/barcode-scanner)
+- **MRZ & Passport Scanner** — Read and parse passport and ID card MRZs. [Try demo](https://www.dynamsoft.com/codepool/demos/mrz-scanner/) · [Source](https://github.com/yushulx/javascript-barcode-qr-code-scanner/tree/main/examples/mrz_scanner)
+- **Multi-Page Document Scanner** — Capture pages, correct perspective, and export a PDF. [Try demo](https://www.dynamsoft.com/codepool/demos/multi-document-capture/) · [Source](https://github.com/yushulx/javascript-barcode-qr-code-scanner/tree/main/examples/multi-document-capture)
+- **Barcode & QR Code Generator** — Generate barcode images and test datasets. [Try demo](https://www.dynamsoft.com/codepool/demos/barcode-qrcode-generator/) · [Source](https://github.com/yushulx/javascript-barcode-qr-code-scanner/tree/main/examples/barcode-qrcode-generator)
+- **PDF & Image Annotation Studio** — View and annotate PDFs and images, scan barcodes, and read MRZs. [Try demo](https://www.dynamsoft.com/codepool/demos/pdf-image-annotation/) · [Source](https://github.com/yushulx/web-twain-document-scan-management/tree/main/examples/pdf-image-annotation)
+- **Driver License Generator** — Create synthetic AAMVA PDF417 test data. [Try demo](https://www.dynamsoft.com/codepool/demos/driver-license-generator/) · [Source](https://github.com/yushulx/javascript-barcode-qr-code-scanner/tree/main/examples/driver-license-generator)
+
+**[Browse all Codepool demos →](https://www.dynamsoft.com/codepool/demos/)**
+
+The hosted demos are free to use without signing up. Some examples use Dynamsoft SDKs and need a separate license when self-hosted.
+
+## Projects
+
 I'm currently working on:
 
 #### Web
