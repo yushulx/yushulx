@@ -25,8 +25,6 @@ I'm currently working on:
 | Angular | [angular-barcode-mrz-document-scanner](https://github.com/yushulx/angular-barcode-mrz-document-scanner) | Angular app for barcode, MRZ, and document scanning with online demo and document PDF viewer |
 | Blazor | [blazor-barcode-mrz-document-scanner](https://github.com/yushulx/blazor-barcode-mrz-document-scanner) | .NET Blazor examples for barcode, MRZ, document scanning with Web TWAIN integration |
 | Dynamic Web TWAIN | [web-twain-document-scan-management](https://github.com/yushulx/web-twain-document-scan-management) | Document scanning samples for React, Angular, Electron, Polymer, Express, Flutter WebView, and more |
-| MRZ Generator | [web-mrz-generator](https://github.com/yushulx/web-mrz-generator) | Web tool for generating Machine Readable Zone (MRZ) strings for passports and ID cards |
-| Barcode Generator | [barcode-qrcode-generator](https://github.com/yushulx/barcode-qrcode-generator) | Web-based barcode & QR code image generator |
 | RESTful API | [dynamsoft-sdk-webapi-restful-service](https://github.com/yushulx/dynamsoft-sdk-webapi-restful-service) | RESTful web service wrapping Dynamsoft SDKs for barcode, MRZ, and document processing |
 
 
@@ -47,13 +45,10 @@ I'm currently working on:
 | Java | [java-barcode-mrz-document-scanner](https://github.com/yushulx/java-barcode-mrz-document-scanner) | Cross-platform Java barcode examples on Windows, Linux, and macOS |
 | Go | [goBarcodeQrSDK](https://github.com/yushulx/goBarcodeQrSDK) | Go barcode & QR code scanning examples with Docker support for Windows, Linux and macOS |
 | .NET MAUI | [maui-barcode-mrz-document-scanner](https://github.com/yushulx/maui-barcode-mrz-document-scanner) | .NET MAUI app examples for scanning barcodes, documents, and MRZ on Android and iOS |
-| .NET MAUI Blazor | [DotNet-MAUI-Blazor-Barcode-Scanner](https://github.com/yushulx/DotNet-MAUI-Blazor-Barcode-Scanner) | Hybrid .NET MAUI Blazor barcode reader examples combining native and web rendering |
 | .NET WinForms | [DirectShow.NET-Webcam-Barcode-Reader](https://github.com/yushulx/DirectShow.NET-Webcam-Barcode-Reader) | Windows .NET barcode scanner examples using DirectShow webcam capture |
-| .NET | [dotnet-barcode-qr-code-sdk](https://github.com/yushulx/dotnet-barcode-qr-code-sdk) | .NET barcode & QR code examples for Windows, Linux, macOS, Android, and iOS with command-line and MAUI demos |
 | .NET | [dotnet-twain-wia-sane-scanner](https://github.com/yushulx/dotnet-twain-wia-sane-scanner) | .NET document scanning examples with TWAIN, WIA, SANE, ICA, and eSCL — includes command-line, WinForms, and MAUI demos |
 | Python | [python-barcode-qrcode-sdk](https://github.com/yushulx/python-barcode-qrcode-sdk) | Python barcode & QR code SDK with Qt/OpenCV examples for Windows, Linux, and macOS |
 | Python| [python-mrz-scanner-sdk](https://github.com/yushulx/python-mrz-scanner-sdk) | Python MRZ scanner for passports, ID cards, and visas with async camera support |
-| Python| [python-document-scanner-sdk](https://github.com/yushulx/python-document-scanner-sdk) | Python document edge detection and perspective correction SDK with camera and CLI examples |
 | Python| [python-twain-wia-sane-scanner](https://github.com/yushulx/python-twain-wia-sane-scanner) | Python bindings for Dynamic Web TWAIN Service REST API, supporting TWAIN, WIA, SANE, ICA, and eSCL document scanning |
 
 #### Camera & Utility Libraries
